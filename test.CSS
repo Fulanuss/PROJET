@@ -1,0 +1,19 @@
+nav { display: inline;}
+body {font-family: Georgia, 'Times New Roman', Times, serif;
+      background-color: blueviolet;} 
+.title {font-family: cursive;
+        font-size: 200%;
+        background-color: brown;
+}
+.form {background-color: aqua;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 150%;
+}
+.tableau {background-color: bisque;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          font-size: 150%;
+}
+.list {background-color: beige;
+       font-family: 'Times New Roman', Times, serif;
+       font-size: 150%;
+}
